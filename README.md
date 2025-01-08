@@ -1,4 +1,4 @@
-# Data Mining for Sustainabiliy
+# Data Mining for Sustainability
 For ESG funds, distinguishing between companies genuinely committed to sustainability and those
 engaging in superficial greenwashing is critical. Current reporting inconsistencies make this task
 challenging, leaving ESG funds reliant on incomplete or unstandardized data. This project tackles
