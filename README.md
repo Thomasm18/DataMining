@@ -1,18 +1,17 @@
 # Data Mining for Sustainability
-For ESG funds, distinguishing between companies genuinely committed to sustainability and those
-engaging in superficial greenwashing is critical. Current reporting inconsistencies make this task
-challenging, leaving ESG funds reliant on incomplete or unstandardized data. This project tackles
-these issues by focusing on two primary objectives:
+Can AI empower ESG funds to invest in companies truly committed to sustainability?
 
-1. Tracking Progress Toward Environmental Goals: Automate the extraction and analysis of
-metrics such as Scope 1-3 emissions, green investments, and methane intensity from
-annual reports.
+This was the driving question behind this project - Data Mining for Sustainability: Tracking Environmental Progress in the Oil and Gas Sector Using AI.
 
-3. Analyzing Impact of Financial Performance: Evaluate the relationship between financial
-metrics (e.g., operating expenses, capital expenditures) and sustainability efforts to
-understand the economic trade-offs.
+For ESG funds, distinguishing between companies genuinely committed to sustainability and those engaging in superficial greenwashing is critical. However, reporting inconsistencies often make this task challenging, leaving funds reliant on incomplete and unstandardized data.
 
-By integrating automated text extraction, AI-driven sentiment analysis, and financial modeling, this approach bridges the gap between corporate claims and
-measurable outcomes. The findings highlight the complex interplay between financial strategies and
-sustainability goals, underscoring the need for standardized ESG reporting and independent audits
-to ensure accountability.
+Our project tackles this issue by:
+
+1️⃣ Automating the extraction of relevant text from annual reports.
+
+2️⃣ Using AI to identify key environmental metrics and evaluate corporate claims.
+
+3️⃣ Employing financial modeling to explore the link between financial strategies and environmental progress.
+
+The findings bridge the gap between corporate sustainability claims and measurable outcomes, emphasizing the urgent need for standardized ESG reporting and independent audits to ensure accountability and transparency.
+
